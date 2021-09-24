@@ -17,12 +17,14 @@ The purpose of this project is to visually show the differences between the magn
 - mapbox API
 
 ## Results 
+The image shows the earthquakes from the last seven days all over the world. When we click on one on those circles we can see the magnitude and location of earthquake. 
 <img width="1381" alt="Onlyearthquakedata" src="https://user-images.githubusercontent.com/85364095/134628945-c49ffeb1-5576-4a59-b82e-3ccdc42769cf.png">
 
+- 
 
 
 
-
+<img width="1381" alt="TectonicPlates" src="https://user-images.githubusercontent.com/85364095/134629386-60ce71a0-d22a-4c23-ba14-91d97a0a330d.png">
 
 
 
