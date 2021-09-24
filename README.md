@@ -1,7 +1,6 @@
 # Mapping_Earthquakes
 http://127.0.0.1:5500/Earthquake_Challenge/index.html
 # Overview 
-
 ## Purpose 
 The purpose of this project is to visually show the differences between the magnitudes of earthquakes and tectonic plates all over the world for the last seven days. Also to see all the earthquakes with a magnitude greater than 4.5 on the map.
 
