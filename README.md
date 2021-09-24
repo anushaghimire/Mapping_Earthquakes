@@ -30,11 +30,12 @@ In this image we can filter out earthquakes that were over 4.5 magnitude.
 <img width="1379" alt="Majorearthquake" src="https://user-images.githubusercontent.com/85364095/134629959-2163ab79-7305-42e7-87ff-c3ea81e2a9b3.png">
 
 We can view the map in dark mode.
+![Darkview jpeg](https://user-images.githubusercontent.com/85364095/134631215-189318e1-38c8-42b2-8b01-da6f11afad3c.jpeg)
 
-<img width="1440" alt="Darkview" src="https://user-images.githubusercontent.com/85364095/134629970-20e64406-4452-4bd2-89a8-9b19ee41f173.png">
 
 We can view the map in satellite mode.
-<img width="1440" alt="satelliteview" src="https://user-images.githubusercontent.com/85364095/134629981-2df69927-2c35-478c-ae74-9b837dd5d6d9.png">
+
+![satelliteview](https://user-images.githubusercontent.com/85364095/134631188-7b42a4ad-62b6-402a-a9fa-8e90e27b861c.jpeg)
 
 
 
